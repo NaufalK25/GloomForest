@@ -25,3 +25,4 @@ ProjectSettings/
 **/*.meta
 **/*.prefab
 **/*.unity
+.editorconfig
