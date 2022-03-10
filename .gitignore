@@ -17,13 +17,6 @@ ExportedObj/
 *.svd
 *.mdb
 
-# Statics
-**/*.pdf
-**/*.jpg
-**/*.jpeg
-**/*.png
-**/*.tif
-
 # Others
 ProjectSettings/
 **/*.[Ff][Bb][Xx]
